@@ -1,0 +1,3 @@
+Hello World !
+[image picture.jpg]
+This is a document editor.
